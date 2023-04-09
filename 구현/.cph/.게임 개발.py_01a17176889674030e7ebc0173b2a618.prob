@@ -1,0 +1,1 @@
+{"name":"Local: 게임 개발","url":"c:\\Users\\jun83\\Desktop\\코테 스터디\\Coding_Algorithm_Study\\구현\\게임 개발.py","tests":[{"id":1681027088205,"input":"4 4\n1 1 0\n1 1 1 1\n1 0 0 1\n1 1 0 1\n1 1 1 1","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jun83\\Desktop\\코테 스터디\\Coding_Algorithm_Study\\구현\\게임 개발.py","group":"local","local":true}
