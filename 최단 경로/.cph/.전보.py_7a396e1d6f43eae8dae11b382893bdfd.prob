@@ -1,0 +1,1 @@
+{"name":"Local: 전보","url":"c:\\Users\\jun83\\Desktop\\코테 스터디\\Coding_Algorithm_Study\\최단 경로\\전보.py","tests":[{"id":1681051457505,"input":"3 2 1\n1 2 4\n1 3 2","output":"2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jun83\\Desktop\\코테 스터디\\Coding_Algorithm_Study\\최단 경로\\전보.py","group":"local","local":true}
