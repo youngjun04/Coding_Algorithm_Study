@@ -1,0 +1,1 @@
+{"name":"Local: 소수 구하기","url":"c:\\Users\\jun83\\Desktop\\코테 스터디\\Coding_Algorithm_Study\\기타 알고리즘\\소수 구하기.py","tests":[{"id":1681484098100,"input":"3 16","output":"3\n5\n7\n11\n13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jun83\\Desktop\\코테 스터디\\Coding_Algorithm_Study\\기타 알고리즘\\소수 구하기.py","group":"local","local":true}
