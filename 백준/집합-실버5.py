@@ -1,12 +1,10 @@
 import sys
 m = int(sys.stdin.readline())
 
-ops = []
-for _ in range(m):
-    ops.append(list(sys.stdin.readline().split()))
-
 S = set()
-for op in ops:
+for _ in range(m):
+    op = sys.stdin.readline().split()
+
     if len(op) == 1:
         if op[0] == 'all':
             S = set([i for i in range(1, 21)])
